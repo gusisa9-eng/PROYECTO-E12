@@ -1,6 +1,6 @@
 # Nombre del proyecto
 
-Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
+Equipo E12 · Análisis de Datos Básico · Estud-IA (Capa 2)
 
 > **Cómo llenar este archivo:** borra «Escribe aquí» y responde debajo de cada pregunta. Si todavía no sabes algo, escribe **PENDIENTE:** y qué te falta confirmar. No inventes datos.
 
