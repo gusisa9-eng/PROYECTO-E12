@@ -9,7 +9,7 @@ Equipo E12 · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 1. Usuario y decisión
 > ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
 
-La usaría un empresario o un programa de apoyo a pymes que necesita decidir en qué sectores enfocarse
+La usaría un empresario o un programa de apoyo a Mipymes que necesita decidir en qué sectores enfocarse. 
 
 ### 2. Pregunta principal
 > Una sola pregunta que ayude a tomar esa decisión.
